@@ -1,0 +1,5 @@
+4
+cliente integer
+Nome varchar
+Sexo char
+Idade small_int
